@@ -71,3 +71,7 @@ usethis::use_readme_rmd()
 
 #Add github
 usethis::use_git()
+
+#git remote add origin olivera.amands96@gmail.com:amandsol/foo.git
+
+#git push -u origin main
